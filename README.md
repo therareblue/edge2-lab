@@ -105,9 +105,62 @@ _Initial Note_: The moment I decide to contribute all my work with Edge2, **was 
 >glxinfo -B
 >```
 
+**8. Setting-up the programming environment**
+>- Note: Ubuntu 22.04 comes with Python 3.10 preinstalled. But for some projects, especially with Ai, you may need lower version of python. For example, for using 'mediapipe' module (for recognizing body motion, gestures, poses atc., python should be 3.9 or lower. In this setup, I use python 3.9 for the virtual environment.
+>- Installing pip:
+>```
+>sudo apt install python3-dev python3-pip
+>```
+>- Installing essentials:
+>```
+>sudo apt install build-essential libssl-dev libffi-dev python3-dev
+>```
+>- Installing python 3.9. It will be installed allong with the native python3.10, and can be accessed via `python3.9 myscript.py`
+>```
+>sudo add-apt-repository ppa:deadsnakes/ppa
+>sudo apt install python3.9 -y
+>```
+>- Get the exact version of python 3.9, to be used when virtual environment is created:
+>```
+>python3.9 --version
+>```
+>- Install the python3.9 add-ons. Note: Those are already installed in 3.10, but for this newly installed version they must be added too:
+>```
+>sudo apt install python3.9-dev python3.9-distutils
+>```
+>- Install the virtual environment module:
+>```
+>sudo pip3 install -U virtualenv
+>```
+>- Creating new virtual environment: Go to the folder where you will build yor project. There will be created the environment folder. Let's call our environment 'venv':
+>```
+>virtualenv --system-site-packages -p python3.9.17 ./venv
+>```
+>- To start the environment, type:
+>```
+>source ./venv/bin/activate
+>```
+>- Stop the environment with:
+>```
+>deactivate
+>```
+>- To remove the virtual environment for your project, simply recursively remove the 'venv' folder. Please note that **all installed modules with pip there will be removed.**
+>```
+>sudo rm -rf venv
+>```
 
+**9. Install packages in the new virtual environment:**
+>- Important note: **When installing packages in 'venv', DO NOT TYPE `sudo`** in front of `pip`, because they will be installed in the main environment where python3.10 is, but not in the virtual environment.
+>```
+>pip3 install psutil
+>pip3 install pygame
+>pip3 install opencv-python
+>pip3 install mediapipe
+>pip3 install --upgrade pillow
+>```
 
-**18. Enable SSH:**
+**10. Additional Stuff:**
+**Enable SSH:**
 >- This is not needed on Edge2 that is installed with official OS from OOWOW. The SSH functionality is already installed and activated. However, here is how to do it:
 >```
 >sudo apt install openssh-server -y
