@@ -79,7 +79,7 @@ _Initial Note_: The moment I decide to contribute all my work with Edge2, **was 
 >```
 
 **7. Install the video driver:**
->- Note: There is a good tutorial from NikcD on the [Khadas Forum](https://forum.khadas.com/t/video-how-to-install-panfrost-gpu-driver-on-ubuntu-22-04/17501), how to install the PanFrost GPU driver on Edge2, but the driver link was moved. However, I was able to find it on another page and I simply upload it here in INSTALL folder. 
+>- Note: There is a good tutorial from NikcD on the [Khadas Forum](https://forum.khadas.com/t/video-how-to-install-panfrost-gpu-driver-on-ubuntu-22-04/17501), how to install the PanFrost GPU driver on Edge2, but the driver link was moved. However, I was able to find it on another page and I simply upload it here in DRIVERS folder. 
 >- Just download the `**mali_csffw.bin**` file, and transfer it to the home folder of your board via FTP client (I use FileZilla).
 >- Back to ubuntu terminal, **move the file into the firmware folder:**
 >```
