@@ -158,10 +158,17 @@ _Initial Note_: The moment I decide to contribute all my work with Edge2, **was 
 >pip3 install mediapipe
 >pip3 install --upgrade pillow
 >```
+**Install Tensorflow:**
+>- Note: If you followed the steps till now, all other requirements should be already satisfied. **It is important to keep protobuf==3.20.3.** This is the last version that mediapipe supports. For the newer versions (4.x..), you will start getting errors.
+>```
+>pip3 install scipy
+>pip3 install tensorflow
+>```
+>- Note: Installing tensorflow, will install keras models automaticly. Numpy will also be upgraded. This won't affect the workflow of the other modules (opencv, mediapipe)
 
 **10. Additional Stuff:**
 **Enable SSH:**
->- This is not needed on Edge2 that is installed with official OS from OOWOW. The SSH functionality is already installed and activated. However, here is how to do it:
+>- This is not needed on Edge2, installed with official OS from OOWOW. The SSH functionality is already installed and activated. However, here is how to do it:
 >```
 >sudo apt install openssh-server -y
 >sudo systemctl status ssh
