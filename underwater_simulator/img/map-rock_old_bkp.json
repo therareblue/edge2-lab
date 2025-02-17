@@ -1,0 +1,363 @@
+[
+  {
+    "id": 0,
+    "description": "Middle Rock",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 1,
+    "description": "Top-Left Clif",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 2,
+    "description": "Top-Right Clif",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 3,
+    "description": "Bottom-Right Cliff",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 4,
+    "description": "Bottom-Left Clif",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 5,
+    "description": "Top Flat Surface",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 6,
+    "description": "Bottom Flat Surface",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 7,
+    "description": "Right Flat Surface",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 8,
+    "description": "Left Flat Surface",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 9,
+    "description": "Left-Right Flat Surface",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 10,
+    "description": "Top-Bottom Flat Surface",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 11,
+    "description": "Left End Tile",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 12,
+    "description": "Top End Tile",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 13,
+    "description": "Right End Tile",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 14,
+    "description": "Bottom End Tile",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 15,
+    "description": "Single Rock Tile",
+    "tiles-x": 1,
+    "tiles-y": 1,
+    "tiles-props": [
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 16,
+    "description": "Top-Left Groove",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tiles-props": [
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 17,
+    "description": "Top-Right Groove",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 18,
+    "description": "Bottom-Right Groove",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 19,
+    "description": "Bottom-Left Groove",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0}
+    ]
+  },
+  {
+    "id": 20,
+    "description": "Top-Left Corner",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tiles-props": [
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 21,
+    "description": "Top-Right Corner",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0}
+    ]
+  },
+  {
+    "id": 22,
+    "description": "Bottom-Right Corner",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 23,
+    "description": "Bottom-Left Corner",
+    "tiles-x": 2,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000}
+    ]
+  },
+  {
+    "id": 24,
+    "description": "Top Middle Node",
+    "tiles-x": 3,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000}
+
+    ]
+  },
+  {
+    "id": 25,
+    "description": "Right Middle Node",
+    "tiles-x": 2,
+    "tiles-y": 3,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0}
+
+    ]
+  },
+  {
+    "id": 26,
+    "description": "Bottom Middle Node",
+    "tiles-x": 3,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 0}
+
+    ]
+  },
+  {
+    "id": 27,
+    "description": "Left Middle Node",
+    "tiles-x": 2,
+    "tiles-y": 3,
+    "tails-props": [
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000}
+
+    ]
+  },
+  {
+    "id": 28,
+    "description": "Top Middle End-Node",
+    "tiles-x": 3,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000}
+
+    ]
+  },
+  {
+    "id": 29,
+    "description": "Right Middle End-Node",
+    "tiles-x": 2,
+    "tiles-y": 3,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0}
+
+    ]
+  },
+  {
+    "id": 30,
+    "description": "Bottom Middle End-Node",
+    "tiles-x": 3,
+    "tiles-y": 2,
+    "tails-props": [
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 0}
+
+    ]
+  },
+  {
+    "id": 31,
+    "description": "Left Middle End-Node",
+    "tiles-x": 2,
+    "tiles-y": 3,
+    "tails-props": [
+      {"resistance": 0},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 1000},
+      {"resistance": 0},
+      {"resistance": 1000}
+
+    ]
+  }
+
+]
