@@ -1,0 +1,586 @@
+[
+  {
+    "id": 0,
+    "description": "Middle Rock",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+
+  },
+  {
+    "id": 1,
+    "description": "Top-Left Clif",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 2,
+    "description": "Top-Right Clif",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 3,
+    "description": "Bottom-Right Cliff",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 4,
+    "description": "Bottom-Left Clif",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 5,
+    "description": "Top Flat Surface",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 6,
+    "description": "Bottom Flat Surface",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 7,
+    "description": "Right Flat Surface",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 8,
+    "description": "Left Flat Surface",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 9,
+    "description": "Left-Right Flat Surface",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 10,
+    "description": "Top-Bottom Flat Surface",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 11,
+    "description": "Left End Tile",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 12,
+    "description": "Top End Tile",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 13,
+    "description": "Right End Tile",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 14,
+    "description": "Bottom End Tile",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 15,
+    "description": "Single Rock Tile",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 16,
+    "description": "Top-Left Groove",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 17,
+    "description": "Top-Right Groove",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 18,
+    "description": "Bottom-Right Groove",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 19,
+    "description": "Bottom-Left Groove",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 20,
+    "description": "Top-Left Corner",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 21,
+    "description": "Top-Right Corner",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 22,
+    "description": "Bottom-Right Corner",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 23,
+    "description": "Bottom-Left Corner",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 24,
+    "description": "Top Middle Node",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 25,
+    "description": "Right Middle Node",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 26,
+    "description": "Bottom Middle Node",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 27,
+    "description": "Left Middle Node",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 28,
+    "description": "Top Middle End-Node",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 29,
+    "description": "Right Middle End-Node",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 30,
+    "description": "Bottom Middle End-Node",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 31,
+    "description": "Left Middle End-Node",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+
+  {
+    "id": 32,
+    "description": "4-Way Cross-Node",
+    "shape": [3, 3],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+
+  {
+    "id": 33,
+    "description": "3-Way Cross-Node Up",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 34,
+    "description": "3-Way Cross-Node Right",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 35,
+    "description": "3-Way Cross-Node Down",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 36,
+    "description": "3-Way Cross-Node Right",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+
+  {
+    "id": 37,
+    "description": "2-Way Cross-Node Up",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 38,
+    "description": "2-Way Cross-Node Right",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 39,
+    "description": "2-Way Cross-Node Down",
+    "shape": [3, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 40,
+    "description": "2-Way Cross-Node Right",
+    "shape": [2, 3],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+
+  {
+    "id": 41,
+    "description": "Angular-Node Btm-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 42,
+    "description": "Angular-Node Btm-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 43,
+    "description": "Angular-Node Top-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 44,
+    "description": "Angular-Node Top-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+
+  {
+    "id": 45,
+    "description": "Angular-Node2 Btm-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 46,
+    "description": "Angular-Node2 Btm-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 47,
+    "description": "Angular-Node2 Top-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+    ],
+    "animated": 0
+  },
+  {
+    "id": 48,
+    "description": "Angular-Node2 Top-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 0, "risk": 0.1},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3},
+      {"passable": 0, "resistance": 1, "temp": 0, "risk": 0.3}
+
+    ],
+    "animated": 0
+  }
+]

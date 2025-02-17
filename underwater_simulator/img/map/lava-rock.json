@@ -1,0 +1,205 @@
+[
+  {
+    "id": 0,
+    "description": "Small Lava Rock Top",
+    "shape": [4, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 97, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 132, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 183, "risk": 0.9},
+      {"passable": 0, "resistance": 0, "temp": 99, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 102, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 109, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 104, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 99, "risk": 0.9}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 1,
+    "description": "Small Lava Rock Bottom",
+    "shape": [4, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 95, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 123, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 153, "risk": 0.9},
+      {"passable": 0, "resistance": 0, "temp": 97, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 102, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 110, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 112, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 99, "risk": 0.9}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 2,
+    "description": "Medium Lava Rock Double",
+    "shape": [4, 6],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 99, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 123, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 198, "risk": 0.9},
+      {"passable": 0, "resistance": 0, "temp": 100, "risk": 0.7},
+
+      {"passable": 0, "resistance": 0, "temp": 123, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 201, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 211, "risk": 0.9},
+      {"passable": 0, "resistance": 0, "temp": 111, "risk": 0.7},
+
+      {"passable": 0, "resistance": 0, "temp": 111, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 202, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 199, "risk": 0.9},
+      {"passable": 0, "resistance": 0, "temp": 121, "risk": 0.7},
+
+      {"passable": 0, "resistance": 0, "temp": 125, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 196, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 198, "risk": 0.9},
+      {"passable": 0, "resistance": 0, "temp": 154, "risk": 0.7},
+
+      {"passable": 0, "resistance": 1, "temp": 122, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 245, "risk": 1},
+      {"passable": 0, "resistance": 1, "temp": 232, "risk": 1},
+      {"passable": 0, "resistance": 1, "temp": 123, "risk": 0.9},
+
+      {"passable": 0, "resistance": 0, "temp": 100, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 154, "risk": 0.9},
+      {"passable": 0, "resistance": 1, "temp": 198, "risk": 0.9},
+      {"passable": 0, "resistance": 0, "temp": 123, "risk": 0.7}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+
+  {
+    "id": 3,
+    "description": "Angular Lava-rock Top-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 90, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 4,
+    "description": "Angular Lava-rock Top-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 0, "temp": 98, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 5,
+    "description": "Angular Lava-rock Btm-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4},
+      {"passable": 0, "resistance": 0, "temp": 89, "risk": 0.7}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 6,
+    "description": "Angular Lava-rock Btm-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 0, "temp": 93, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 7,
+    "description": "Cliff Lava-rock Top-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4},
+      {"passable": 0, "resistance": 0, "temp": 89, "risk": 0.7}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 8,
+    "description": "Cliff Lava-rock Top-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 0, "temp": 65, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 9,
+    "description": "Cliff Lava-rock Btm-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 65, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 10,
+    "description": "Cliff Lava-rock Btm-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 0, "temp": 65, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 11,
+    "description": "Edge Lava-rock Btm-Right",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 0, "temp": 65, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  },
+  {
+    "id": 12,
+    "description": "Edge Lava-rock Btm-Left",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 0, "resistance": 1, "temp": 33, "risk": 0.4},
+      {"passable": 0, "resistance": 0, "temp": 65, "risk": 0.7},
+      {"passable": 0, "resistance": 1, "temp": 36, "risk": 0.4},
+      {"passable": 0, "resistance": 1, "temp": 30, "risk": 0.4}
+    ],
+    "animated": 0,
+    "mask-clr": [217, 87, 155]
+  }
+]

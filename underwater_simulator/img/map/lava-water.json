@@ -1,0 +1,168 @@
+[
+  {
+    "id": 0,
+    "description": "Lava-Water Single Full",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 112, "risk": 0.8}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 1,
+    "description": "Lava-Water Single TopLeft",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 99, "risk": 0.6}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 2,
+    "description": "Lava-Water Single TopRight",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 98, "risk": 0.6}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 3,
+    "description": "Lava-Water Single BtmRight",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 96, "risk": 0.6}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 4,
+    "description": "Lava-Water Single BtmLeft",
+    "shape": [1, 1],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 99, "risk": 0.6}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+
+  {
+    "id": 5,
+    "description": "Lava-Water Edge TopLeft",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 82, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 98, "risk": 0.7},
+      {"passable": 1, "resistance": 0, "temp": 75, "risk": 0.3},
+      {"passable": 1, "resistance": 0, "temp": 82, "risk": 0.5}
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 6,
+    "description": "Lava-Water Edge TopRight",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 99, "risk": 0.7},
+      {"passable": 1, "resistance": 0, "temp": 82, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 86, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 76, "risk": 0.3}
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 7,
+    "description": "Lava-Water Edge BtmRight",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 83, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 74, "risk": 0.3},
+      {"passable": 1, "resistance": 0, "temp": 94, "risk": 0.7},
+      {"passable": 1, "resistance": 0, "temp": 82, "risk": 0.5}
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 8,
+    "description": "Lava-Water Edge BtmLeft",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 79, "risk": 0.3},
+      {"passable": 1, "resistance": 0, "temp": 89, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 83, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 98, "risk": 0.7}
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+
+  {
+    "id": 9,
+    "description": "Lava-Water Cliff TopLeft",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 78, "risk": 0.4},
+      {"passable": 1, "resistance": 0, "temp": 85, "risk": 0.6},
+      {"passable": 1, "resistance": 0, "temp": 85, "risk": 0.6},
+      {"passable": 1, "resistance": 0, "temp": 102, "risk": 0.7}
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 10,
+    "description": "Lava-Water Cliff TopRight",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 78, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 70, "risk": 0.4},
+      {"passable": 1, "resistance": 0, "temp": 91, "risk": 0.7},
+      {"passable": 1, "resistance": 0, "temp": 79, "risk": 0.6}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 11,
+    "description": "Lava-Water Cliff BtmRight",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 103, "risk": 0.7},
+      {"passable": 1, "resistance": 0, "temp": 89, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 92, "risk": 0.6},
+      {"passable": 1, "resistance": 0, "temp": 79, "risk": 0.4}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  },
+  {
+    "id": 12,
+    "description": "Lava-Water Cliff BtmLeft",
+    "shape": [2, 2],
+    "props": [
+      {"passable": 1, "resistance": 0, "temp": 92, "risk": 0.5},
+      {"passable": 1, "resistance": 0, "temp": 99, "risk": 0.7},
+      {"passable": 1, "resistance": 0, "temp": 80, "risk": 0.4},
+      {"passable": 1, "resistance": 0, "temp": 89, "risk": 0.6}
+
+    ],
+    "animated": 0,
+    "mask-clr": [255, 255, 255]
+  }
+
+
+]
